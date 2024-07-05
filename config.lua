@@ -1,8 +1,8 @@
 Config = {}
 
-Config.Language = "en" -- Language to use.
+Config.Language = "da" -- Language to use.
 
-Config.UseImperial = true -- Use imperial units (feet/miles) instead of metric units (meters/kilometers).
+Config.UseImperial = false -- Use imperial units (feet/miles) instead of metric units (meters/kilometers).
 
 Config.RenderDistance = 300.0 -- When to render markers from waypoints.
 
